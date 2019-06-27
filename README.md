@@ -61,3 +61,6 @@ These are the steps you should take in order to create your MVP:
 11. Utilize the rails console to instantiate the `AppStats` class and use it to test all of the statistical methods you created.
 
 ## Stretch Problems
+
+1. Create a controller and views to show `AppStats` data on the root route.
+2. Update the index views to only show `published?` posts.
