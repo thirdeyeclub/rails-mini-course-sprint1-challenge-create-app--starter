@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint Challenge - Awesome Blog
+# Ruby on Rails Basics - Sprint Challenge - Awesome Blog
 
 ## Instructions
 
