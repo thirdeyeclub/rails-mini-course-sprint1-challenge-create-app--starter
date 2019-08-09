@@ -1,4 +1,4 @@
-# Ruby on Rails Basics - Sprint Challenge - Awesome Blog
+# Ruby & Ruby on Rails Basics - Sprint Challenge - Awesome Blog
 
 ## Instructions
 
